@@ -22,7 +22,7 @@ jobs:
               fi
       # check to see if archived branch already in json ref object
       - run: |
-              echo "jq '.branches | index(${{ github.ref_name }})' published-branches.json"
+              echo jq '.branches | index(${{ github.ref_name }})' published-branches.json
       # if [ "$IN_JSON" == null ]; then
       #   echo "not here"; else
       #   echo "$IN_JSON"
