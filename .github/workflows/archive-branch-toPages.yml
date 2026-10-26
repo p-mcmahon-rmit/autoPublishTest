@@ -39,7 +39,7 @@ jobs:
           git add .
 
           # remove the workflows folder
-          git rm ${{ github.ref_name }}/ -r
+          git rm ${{ github.ref_name }}/.github/ -r
       
           # make commit with staged changes
           git commit -m 'files changed'
