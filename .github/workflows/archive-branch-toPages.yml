@@ -20,11 +20,10 @@ jobs:
               if [ ! -d ${{ github.ref_name }} ]; then
                 mkdir "${{ github.ref_name }}"
               fi
-      # check to see if archived branch already in json ref object
+      # check to see if archived branch already in json ref object, if not add it
       - run: |
               if [ "$(jq '.branches | index("${{ github.ref_name }}")' published-branches.json)" == "null" ]; then
-                echo "not here"; else
-                echo "here"
+                jq '.branches += ["${{ github.ref_name }}"]' published-branches.json > temp.json && mv publish-branches.json
               fi;
       #         result=$( jq '.branches | index(${{ github.ref_name }})' published-branches.json );
       #         echo "$result";
