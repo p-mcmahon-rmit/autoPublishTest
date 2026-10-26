@@ -22,12 +22,11 @@ jobs:
               fi
       # check to see if archived branch already in json ref object
       - run: |
-              if [ "$IN_JSON" == null ]; then
-                echo "not here"; else
-                echo "$IN_JSON"
-              fi;
-        env: 
-          IN_JSON: jq '.branches | index(${{ github.ref_name }})' published-branches.json
+              echo "jq '.branches | index(${{ github.ref_name }})' published-branches.json"
+      # if [ "$IN_JSON" == null ]; then
+      #   echo "not here"; else
+      #   echo "$IN_JSON"
+      # fi;
       #         result=$( jq '.branches | index(${{ github.ref_name }})' published-branches.json );
       #         echo "$result";
       # archive files from original branch, bring them across the extract to appropriate folder
