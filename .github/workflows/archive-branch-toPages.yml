@@ -24,7 +24,7 @@ jobs:
       - run: |
               if [ "$(jq '.branches | index("${{ github.ref_name }}")' published-branches.json)" == "null" ]; then
                 echo "not here"; else
-                echo "$IN_JSON"
+                echo "here"
               fi;
       #         result=$( jq '.branches | index(${{ github.ref_name }})' published-branches.json );
       #         echo "$result";
