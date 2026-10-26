@@ -1,6 +1,7 @@
 {
-"branches":[
+  "branches": [
     "main",
-    "exploreOne"
-]
+    "exploreOne",
+    "explore-four"
+  ]
 }
