@@ -23,7 +23,7 @@ jobs:
       # check to see if archived branch already in json ref object, if not add it
       - run: |
               if [ "$(jq '.branches | index("${{ github.ref_name }}")' published-branches.json)" == "null" ]; then
-                jq '.branches += ["${{ github.ref_name }}"]' published-branches.json > temp.json && mv temp.json publish-branches.json
+                jq '.branches += ["${{ github.ref_name }}"]' published-branches.json > temp.json && mv temp.json published-branches.json
               fi;
       #         result=$( jq '.branches | index(${{ github.ref_name }})' published-branches.json );
       #         echo "$result";
