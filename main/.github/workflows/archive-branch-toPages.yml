@@ -27,7 +27,7 @@ jobs:
                 echo "$IN_JSON"
               fi;
         env: 
-          IN_JSON: $(jq '.branches | index(${{ github.ref_name }})' published-branches.json)
+          IN_JSON: jq '.branches | index(${{ github.ref_name }})' published-branches.json
       #         result=$( jq '.branches | index(${{ github.ref_name }})' published-branches.json );
       #         echo "$result";
       # archive files from original branch, bring them across the extract to appropriate folder
