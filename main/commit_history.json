@@ -1,2 +1,272 @@
 [
+{
+  "commit": "982d80d765f24fa3feede6310660f1f5910d9eec",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Tue, 27 Oct 2026 23:43:22 +0000",
+  "diffs": "1 file changed, 2 insertions(+)"
+},
+
+{
+  "commit": "0507b3d5e0ab20968ab58a5895990729b230fd94",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Tue, 27 Oct 2026 23:41:57 +0000",
+  "diffs": "1 file changed, 2 insertions(+)"
+},
+
+{
+  "commit": "c89055fc316997316147023c1af69ae2925728ea",
+  "subject": "Delete publish-branches.json",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Mon, 26 Oct 2026 13:28:14 +1100",
+  "diffs": "1 file changed, 7 deletions(-)"
+},
+
+{
+  "commit": "8fb714b714de2bd4a671a2804a49161e009c7412",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 02:27:23 +0000",
+  "diffs": "6 files changed, 51 insertions(+), 3 deletions(-)"
+},
+
+{
+  "commit": "07a11b3f5131a188710b2a97ab0a229c5dd3f6a5",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 02:27:04 +0000",
+  "diffs": "1 file changed, 51 deletions(-)"
+},
+
+{
+  "commit": "61e22facca6f0245eb5659041a096e2f6a414eef",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:56:37 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "8b32788a1a55d9625a2ca78688cc4a29a9923336",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:55:35 +0000",
+  "diffs": "7 files changed, 105 insertions(+)"
+},
+
+{
+  "commit": "b63da562abc4d5b93e34df6071baf005df8c7f8c",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:52:48 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "20f377f045aca7db59e06c72bbe3bfc47fe71415",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:50:14 +0000",
+  "diffs": "1 file changed, 2 insertions(+), 3 deletions(-)"
+},
+
+{
+  "commit": "441ec7a5a9b07bb37cdd134ded0e71dcf56ebcc2",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:44:29 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "cd66e4a3ca76d4ef9b4e021209e5785a2c390342",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:43:44 +0000",
+  "diffs": "1 file changed, 4 insertions(+), 5 deletions(-)"
+},
+
+{
+  "commit": "30b43c1dd545d15867b78e525f52c03d9be50be9",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:40:14 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "da908aad72e78d973d7a044d092f038351abfc31",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:39:17 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "5f9ac9e3a5adb00f6c3003f951c16b117b8d7d6c",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:35:36 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "d40285d8d5f2f103be5c09c292ca10f7417e4349",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:34:55 +0000",
+  "diffs": "1 file changed, 5 insertions(+), 6 deletions(-)"
+},
+
+{
+  "commit": "ada46964a1c8b3a92cbb78a92dd65e16a4a24ccf",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:31:41 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "ee22e07db6339757ff25a8b318d9ff3bfa6eed20",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:31:07 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "a4c7a63f9c0afb3b6e44309789fbd2d25b8429b9",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:30:20 +0000",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "42d8dbca4a3351bcfb09ff97b20a26211e45d2f3",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:29:16 +0000",
+  "diffs": "1 file changed, 7 insertions(+), 4 deletions(-)"
+},
+
+{
+  "commit": "ba474ed4290dcb239b2669a8af1fd2aaa6f0c818",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Mon, 26 Oct 2026 01:20:45 +0000",
+  "diffs": "1 file changed, 8 insertions(+), 1 deletion(-)"
+},
+
+{
+  "commit": "9eb8c80d97837ae6624e9ba6cf241b29899134d1",
+  "subject": "Rename 'published-branches' to 'branches'",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Mon, 26 Oct 2026 12:06:31 +1100",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "86582d7cf58d6691f776b28ce1a1998e717222c0",
+  "subject": "Rename 'employees' to 'published-branches'",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Mon, 26 Oct 2026 12:04:53 +1100",
+  "diffs": "1 file changed, 1 insertion(+), 1 deletion(-)"
+},
+
+{
+  "commit": "4aebdeedf264e517318821b09b9f19491e6baa91",
+  "subject": "Update and rename list.json to published-branches.json",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Mon, 26 Oct 2026 12:02:10 +1100",
+  "diffs": "2 files changed, 6 insertions(+), 7 deletions(-)"
+},
+
+{
+  "commit": "35bcd8b6f8ffb10e0d9597443ddfab118a6487b9",
+  "subject": "Add list.json with employee names",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Fri, 23 Oct 2026 09:19:56 +1100",
+  "diffs": "1 file changed, 7 insertions(+)"
+},
+
+{
+  "commit": "36de1d93c2a0a154bda2d0dcdce0219344a7a946",
+  "subject": "files changed",
+  "body": "",
+  "name": "p-mcmahon-rmit",
+  "date": "Wed, 21 Oct 2026 04:59:42 +0000",
+  "diffs": "6 files changed, 91 insertions(+)"
+},
+
+{
+  "commit": "cfe6c0dca6d4cbb9ef3ebd9c8480ca067cd42b06",
+  "subject": "updated with diff from extraction",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Thu, 15 Oct 2026 13:34:10 +1100",
+  "diffs": "1 file changed, 1 insertion(+)"
+},
+
+{
+  "commit": "eea9cc31e2051bf17e5c0c4434b5e36db6cbf8e2",
+  "subject": "added in test extraction",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Thu, 15 Oct 2026 13:29:18 +1100",
+  "diffs": "5 files changed, 45 insertions(+)"
+},
+
+{
+  "commit": "860b314d85a17dfcbca312b2860ac94f48c12e18",
+  "subject": "changed pages index",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Thu, 15 Oct 2026 12:58:05 +1100",
+  "diffs": "1 file changed, 2 insertions(+), 2 deletions(-)"
+},
+
+{
+  "commit": "e0b51feb858c27c85ff5d9aa57da9cd3e54329ef",
+  "subject": "update index",
+  "body": "update to test exploration branch
+",
+  "name": "Patrick McMahon",
+  "date": "Thu, 15 Oct 2026 12:55:36 +1100",
+  "diffs": "1 file changed, 2 insertions(+), 2 deletions(-)"
+},
+
+{
+  "commit": "cce4bf1f74bffbde25bf235d78693ae18c9e8efe",
+  "subject": "init main index",
+  "body": "",
+  "name": "Patrick McMahon",
+  "date": "Thu, 15 Oct 2026 12:53:48 +1100",
+  "diffs": "5 files changed, 45 insertions(+)"
+}
 ]
