@@ -40,7 +40,7 @@ jobs:
               else
                 echo "No changes."
               fi
-      - if: ${{ env.CHANGES_MADE }}
+      - if: ${{ env.CHANGES_MADE == 'true' }}
         run: echo "yep"
       - if: ${{ env.CHANGES_MADE != 'true' }}
         run: echo "nope"
